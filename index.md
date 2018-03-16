@@ -31,12 +31,19 @@ List of topics:
 [EasyChair submission link](https://easychair.org/conferences/?conf=profs2018).
 
 
-<div class="navsec" id="dates"></div>
-# Important Dates
+## Important Dates
 
 * May 4, 2018: Workshop papers due
 * May 25, 2018: Workshop papers notification
 * July 12, 2018: Workshop day
+
+
+<div class="navsec" id="program"></div>
+# Program
+TBD
+
+## Resources
+Something about the survey
 
 
 <div class="navsec" id="organisation"></div>
@@ -53,13 +60,7 @@ List of topics:
 * Suzan Verberne, Leiden University, the Netherlands
 * Arjen P. de Vries, Radboud University, the Netherlands
 
-<div class="navsec" id="program"></div>
-# Program
-TBD
 
-<div class="navsec" id="resources"></div>
-# Resources
-Something about the survey
 
 
  
