@@ -5,7 +5,7 @@ include: [ _pages ]
 
 # Variables used in pages
 title: First International Workshop on Professional Search
-description: Co-located with SIGIR 2018
+description: Co-located with SIGIR 2018, Ann Arbor, Michigan, USA -- 12 July 2018
 
 
 github: [metadata]
