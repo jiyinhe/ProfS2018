@@ -3,12 +3,15 @@ layout: default
 ---
 <div class="navsec" id="overview"></div>
 # Overview
+
 Professional search in specific domains has been addressed in IR research over the last decades. Although each domain (e.g. legal, medical, academic, governmental) has its own idiosyncrasies, professional search tasks have specific requirements in common that are different from requirements of generic web search engines. These requirements follow directly from the context and needs of professional searchers: Searchers in different domains often exhibit particular search behavior different from general Web search. These unique behavioral patterns can be both a nature of the profession as well as a result of using a particular professional search tool.
 
 This workshop will address the specific requirements for professional search from multiple angles; covering many different facets of professional search in an interactive setting where researchers work with input from information professionals to their mutual benefit. The workshop will deliver a roadmap of research directions for the years to come.
 
+
 <div class="navsec" id="cfp"></div>
 # CFP
+
 We invite submissions of **research papers and position papers with a maximum length of four pages ACM style**. The selection of papers is based on relevance, quality and diversity. The workshop is also open for papers presenting work in progress and challenges of new projects.
 
 List of topics:
@@ -27,13 +30,16 @@ List of topics:
 
 [EasyChair submission link](https://easychair.org/conferences/?conf=profs2018).
 
-<div class="navsec" id="organisation"></div>
 
+<div class="navsec" id="dates"></div>
 # Important Dates
+
 * May 4, 2018: Workshop papers due
 * May 25, 2018: Workshop papers notification
 * July 12, 2018: Workshop day
 
+
+<div class="navsec" id="organisation"></div>
 # Organisation
 
 ## PC members
