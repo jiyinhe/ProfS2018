@@ -1,1 +1,11 @@
 theme: jekyll-theme-midnight
+
+include: [ _pages ]
+
+
+# Variables used in pages
+title: First International Workshop on Professional Search
+description: Co-located with SIGIR 2018
+
+
+github: [metadata]

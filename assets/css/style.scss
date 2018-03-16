@@ -1,0 +1,65 @@
+---
+---
+@import "{{ site.theme }}";
+
+.fork {
+    margin-right: 10px;
+}
+
+#header nav li.title {
+    float: left;
+    font-size: 24px;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+#footer {
+    .credits {
+      font-size: 11px;
+      font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-weight: normal;
+      color: #696969;
+      margin-top: -10px;
+
+      &.left {
+        float: left;
+      }
+
+      &.right {
+        float: right;
+      }
+    }
+}
+
+p {
+    font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+}
+
+section #title p {
+    font-size: 26px;
+}
+
+li {
+    font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+}
+
+h1 {
+    font-size: 36px;
+    font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+section #title h1 {
+    font-size: 46px;
+    line-height: 46px;
+}
+
+h2 {
+    margin-top: 20px;
+    font-size: 26px;
+    font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.navsec {
+    padding-top: 70px;
+}
