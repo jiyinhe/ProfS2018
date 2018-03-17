@@ -60,6 +60,8 @@ Something about the survey
 * Suzan Verberne, Leiden University, the Netherlands
 * Arjen P. de Vries, Radboud University, the Netherlands
 
+# Contact
+[profs2018@easychair.org](mailto:profs2018@easychair.org)
 
 
 
