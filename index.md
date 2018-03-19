@@ -42,8 +42,6 @@ List of topics:
 # Program
 TBD
 
-## Resources
-Something about the survey
 
 
 <div class="navsec" id="organisation"></div>
