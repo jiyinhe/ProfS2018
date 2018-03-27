@@ -48,7 +48,7 @@ TBD
 # Organisation
 
 ## PC members
-* To be finalized
+Allan Hanbury, Charlie Hull, David Elsweiler, Diane Kelly, Elaine Toms, Farhad Shokraneh, Jaap Kamps, Julie Glanville, Krisztian Balog, Laura Dietz, Martin White, Michail Salampasis, Mihai Lupu, Norbert Fuhr, Ray Daley.
 
 ##  Organisers 
 * Jiyin He, CWI, the Netherlands
