@@ -12,7 +12,7 @@ This workshop will address the specific requirements for professional search fro
 <div class="navsec" id="cfp"></div>
 # CFP
 
-We invite submissions of **research papers and position papers with a maximum length of four pages [ACM style](https://www.acm.org/publications/proceedings-template)**. The selection of papers is based on relevance, quality and diversity. The workshop is also open for papers presenting work in progress and challenges of new projects.
+We invite submissions of **research papers and position papers with a maximum length of four pages [ACM style](https://www.acm.org/publications/proceedings-template)**. Please anonymize your paper; the reviewing process will be double blind. The selection of papers is based on relevance, quality and diversity. The workshop is also open for papers presenting work in progress and challenges of new projects. The proceedings will be published as [CEUR workshop proceedings](http://ceur-ws.org/).
 
 List of topics:
 * distributed and federated search in professional search environments;
