@@ -40,7 +40,7 @@ List of topics:
 
 <div class="navsec" id="program"></div>
 # Program
-Keynote speaker: [Paul Bennet, Microsoft Research](https://www.microsoft.com/en-us/research/people/pauben/)
+Keynote speaker: [Paul Bennet, Microsoft Research](https://www.microsoft.com/en-us/research/people/pauben)
 
 
 
