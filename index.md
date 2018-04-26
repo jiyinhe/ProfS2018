@@ -15,8 +15,6 @@ This workshop will address the specific requirements for professional search fro
 We invite submissions of **research papers and position papers with a maximum length of four pages [ACM style](https://www.acm.org/publications/proceedings-template)**. Please anonymize your paper; the reviewing process will be double blind. The selection of papers is based on relevance, quality and diversity. The workshop is also open for papers presenting work in progress and challenges of new projects. The proceedings will be published as [CEUR workshop proceedings](http://ceur-ws.org/).
 
 List of topics:
-* distributed and federated search in professional search environments;
-* multi-modal and multi-lingual search in professional environments;
 * supporting exploratory search and complex,high-value search tasks;
 * the collection and analysis of information needs in professional search domains;
 * comparison of search needs, approaches and behavior patterns across different professions;
@@ -26,7 +24,9 @@ List of topics:
 * beyond the search engine result page: browsing, reading, analyzing and using retrieval results;
 * personalization and information recommendation for professional search;
 * search applications in a professional context (such as enterprise search, e-discovery and email search);
-* the evaluation and improvement of specialized search tools in working environments.
+* the evaluation and improvement of specialized search tools in working environments;
+* distributed and federated search in professional search environments;
+* multi-modal and multi-lingual search in professional environments.
 
 [EasyChair submission link](https://easychair.org/conferences/?conf=profs2018).
 
