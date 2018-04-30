@@ -41,7 +41,7 @@ List of topics:
 <div class="navsec" id="program"></div>
 # Program
 Keynote speakers: 
-* [Paul Bennet, Microsoft Research](https://www.microsoft.com/en-us/research/people/pauben)
+* [Paul Bennett, Microsoft Research](https://www.microsoft.com/en-us/research/people/pauben)
 "Search and Recommendation in the Enterprise"
 
 Paul Bennett is the Principal Research Manager of the Information & Data Sciences group in Microsoft Research AI. His published research has focused on a variety of topics surrounding the use of machine learning in information retrieval - including ensemble methods and the combination of information sources, calibration, consensus methods for noisy supervision labels, active learning and evaluation, supervised classification and ranking, crowdsourcing, behavioral modeling and analysis, and personalization. Some of his work has been recognized with awards at SIGIR, CHI, and ACM UMAP as well as an ECIR Test of Time Honorable Mention award. Prior to joining MSR in 2006, he completed his dissertation in the Computer Science Department at Carnegie Mellon with Jaime Carbonell and John Lafferty. While at CMU, he also acted as the Chief Learning Architect on the RADAR project from 2005-2006 while a postdoctoral fellow in the Language Technologies Institute.
