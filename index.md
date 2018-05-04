@@ -33,7 +33,7 @@ List of topics:
 
 ## Important Dates
 
-* May 4, 2018: Workshop papers due
+* **May 7, 2018**: Workshop papers due
 * May 25, 2018: Workshop papers notification
 * July 12, 2018: Workshop day
 
