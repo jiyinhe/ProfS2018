@@ -81,7 +81,7 @@ David D. Lewis, Ph.D. is Chief Data Scientist at Brainspace, A Cyxtera Business.
 # Organisation
 
 ## PC members
-Allan Hanbury, Charlie Hull, David Elsweiler, Diane Kelly, Elaine Toms, Farhad Shokraneh, Jaap Kamps, Julie Glanville, Krisztian Balog, Laura Dietz, Martin White, Michail Salampasis, Mihai Lupu, Norbert Fuhr, Ray Daley.
+Allan Hanbury, Charlie Hull, David Elsweiler, Diane Kelly, Elaine Toms, Farhad Shokraneh, Jaap Kamps, Julie Glanville, Krisztian Balog, Laura Dietz, Martin White, Michail Salampasis, Mihai Lupu, Norbert Fuhr, Peter Cotroneo, Ray Daley, Rene Spijker.
 
 ##  Organisers 
 * Jiyin He, CWI, the Netherlands
