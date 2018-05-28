@@ -90,6 +90,7 @@ Allan Hanbury, Charlie Hull, David Elsweiler, Diane Kelly, Elaine Toms, Farhad S
 * Tony Russell-Rose, UXLabs, Guildford, UK
 * Suzan Verberne, Leiden University, the Netherlands
 * Arjen P. de Vries, Radboud University, the Netherlands
+* Gineke Wiggers, Leiden University, the Netherlands
 
 # Contact
 [profs2018@easychair.org](mailto:profs2018@easychair.org)
