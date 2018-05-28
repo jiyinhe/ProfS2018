@@ -42,28 +42,28 @@ List of topics:
 # Program
 
 ## Tentative workshop schedule
-9:15 - 9:30	Introduction 
-9:30 - 10:00	Presentation of survey results
-10:00 - 10:45	Keynote 1: Paul Bennett 
-10:45 - 11:00	Break
-11:00 - 12:00	3 oral presentations
+	| 9:15 - 9:30	| Introduction 	| 
+	| 9:30 - 10:00	| Presentation of survey results	| 
+	| 10:00 - 10:45	| Keynote 1: Paul Bennett 	| 
+	| 10:45 - 11:00	| Break	| 
+	| 11:00 - 12:00	| 3 oral presentations	| 
 
 * Girish Palshikar, Rajiv Srivastava, Mahek Shah and Sachin Pawar: Automatic Shortlisting of Candidates in Recruitment
 * Tamer Mohamed Abdellatif, Luiz Fernando Capretz and Danny Ho: Searching for Relevant Lessons Learned Using Hybrid Information Retrieval Classifiers: A Case Study in Software Engineering
 * Nimesh Ghelani, Gordon Cormack and Mark Smucker: Refresh Strategies in Continuous Active Learning
 
-12:00 - 13:00	Lunch
-13:00 - 13:45	Keynote 2: David D. Lewis
-13:45 - 14:45	3 oral presentations
+	| 12:00 - 13:00	| Lunch	| 
+	| 13:00 - 13:45	| Keynote 2: David D. Lewis	| 
+	| 13:45 - 14:45	| 3 oral presentations	| 
 
 * Thomas Schoegje, Toine Pieters and Egon van den Broek: Personalizing professional search: plans for supporting authentic work tasks (position paper)
 * Piyush Arora and Gareth Jones: Challenges in the development of effective systems for Professional Legal Search
 * Suzan Verberne: Explainable IR for personalizing professional search (position paper)
 
-14:45 - 15:00 Break
-15:00 - 16:00	Breakout session
-16:00 - 16:45	Reports from the breakout sessions
-16:45 - 17:00	Conclusion
+	| 14:45 - 15:00	| Break	| 
+	| 15:00 - 16:00	| Breakout session	| 
+	| 16:00 - 16:45	| Reports from the breakout sessions	| 
+	| 16:45 - 17:00	| Conclusion	| 
 
 
 ## Keynote speakers
