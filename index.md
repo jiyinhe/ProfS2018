@@ -42,28 +42,18 @@ List of topics:
 # Program
 
 ## Tentative workshop schedule
-	| 9:15 - 9:30	| Introduction 	| 
-	| 9:30 - 10:00	| Presentation of survey results	| 
-	| 10:00 - 10:45	| Keynote 1: Paul Bennett 	| 
-	| 10:45 - 11:00	| Break	| 
-	| 11:00 - 12:00	| 3 oral presentations	| 
-
-* Girish Palshikar, Rajiv Srivastava, Mahek Shah and Sachin Pawar: Automatic Shortlisting of Candidates in Recruitment
-* Tamer Mohamed Abdellatif, Luiz Fernando Capretz and Danny Ho: Searching for Relevant Lessons Learned Using Hybrid Information Retrieval Classifiers: A Case Study in Software Engineering
-* Nimesh Ghelani, Gordon Cormack and Mark Smucker: Refresh Strategies in Continuous Active Learning
-
-	| 12:00 - 13:00	| Lunch	| 
-	| 13:00 - 13:45	| Keynote 2: David D. Lewis	| 
-	| 13:45 - 14:45	| 3 oral presentations	| 
-
-* Thomas Schoegje, Toine Pieters and Egon van den Broek: Personalizing professional search: plans for supporting authentic work tasks (position paper)
-* Piyush Arora and Gareth Jones: Challenges in the development of effective systems for Professional Legal Search
-* Suzan Verberne: Explainable IR for personalizing professional search (position paper)
-
-	| 14:45 - 15:00	| Break	| 
-	| 15:00 - 16:00	| Breakout session	| 
-	| 16:00 - 16:45	| Reports from the breakout sessions	| 
-	| 16:45 - 17:00	| Conclusion	| 
+| 9:15 - 9:30	| Introduction 	| 
+| 9:30 - 10:00	| Presentation of survey results	| 
+| 10:00 - 10:45	| Keynote 1: Paul Bennett 	| 
+| 10:45 - 11:00	| Break	| 
+| 11:00 - 12:00	| 3 oral presentations	| 
+| 12:00 - 13:00	| Lunch	| 
+| 13:00 - 13:45	| Keynote 2: David D. Lewis	| 
+| 13:45 - 14:45	| 3 oral presentations	| 
+| 14:45 - 15:00	| Break	| 
+| 15:00 - 16:00	| Breakout session	| 
+| 16:00 - 16:45	| Reports from the breakout sessions	| 
+| 16:45 - 17:00	| Conclusion	| 
 
 
 ## Keynote speakers
@@ -76,6 +66,14 @@ Paul Bennett is the Principal Research Manager of the Information & Data Science
 "R Research Challenges in Legal Discovery and Investigations"
 
 David D. Lewis, Ph.D. is Chief Data Scientist at Brainspace, A Cyxtera Business.  He leads the data science team developing new information retrieval, machine learning, and natural language processing technologies for legal, investigatory, and intelligence applications.  He is a Fellow of the American Society for the Advancement of Science, and won a Test of Time Award from SIGIR in 2017 for his 1994 paper introducing the uncertainty sampling algorithm for active learning.
+
+## Accepted papers
+* Girish Palshikar, Rajiv Srivastava, Mahek Shah and Sachin Pawar: Automatic Shortlisting of Candidates in Recruitment
+* Tamer Mohamed Abdellatif, Luiz Fernando Capretz and Danny Ho: Searching for Relevant Lessons Learned Using Hybrid Information Retrieval Classifiers: A Case Study in Software Engineering
+* Nimesh Ghelani, Gordon Cormack and Mark Smucker: Refresh Strategies in Continuous Active Learning
+* Thomas Schoegje, Toine Pieters and Egon van den Broek: Personalizing professional search: plans for supporting authentic work tasks (position paper)
+* Piyush Arora and Gareth Jones: Challenges in the development of effective systems for Professional Legal Search
+* Suzan Verberne: Explainable IR for personalizing professional search (position paper)
 
 
 <div class="navsec" id="organisation"></div>
