@@ -45,16 +45,15 @@ List of topics:
 
  9:15 - 9:30	| Introduction 	
  9:30 - 10:00	| Presentation of survey results	
- 10:00 - 10:45	| Keynote 1: Paul Bennett 	
- 10:45 - 11:00	| Break	
- 11:00 - 12:00	| 3 oral presentations	
- 12:00 - 13:00	| Lunch	
- 13:00 - 13:45	| Keynote 2: David D. Lewis	
- 13:45 - 14:45	| 3 oral presentations	
- 14:45 - 15:00	| Break	
- 15:00 - 16:00	| Breakout session	
- 16:00 - 16:45	| Reports from the breakout sessions	
- 16:45 - 17:00	| Conclusion	
+ 10:00 - 10:30  | Coffee Break I
+ 10:30 - 11:15	| Keynote 1: Paul Bennett 	
+ 11:15 - 12:00	| 3 oral presentations	
+ 12:00 - 13:30	| Lunch	
+ 13:30 - 14:15	| Keynote 2: David D. Lewis	
+ 14:15 - 15:00	| 3 oral presentations	
+ 15:00 - 15:30	| Coffee Break II
+ 15:30 - 16:30	| Breakout session	
+ 16:30 - 17:00	| Reports from the breakout sessions & conclusions
 
 
 ## Keynote speakers
