@@ -83,10 +83,10 @@ David D. Lewis, Ph.D. is Chief Data Scientist at Brainspace, A Cyxtera Business.
 Allan Hanbury, Charlie Hull, David Elsweiler, Diane Kelly, Elaine Toms, Farhad Shokraneh, Jaap Kamps, Julie Glanville, Krisztian Balog, Laura Dietz, Martin White, Michail Salampasis, Mihai Lupu, Norbert Fuhr, Peter Cotroneo, Ray Daley, Rene Spijker.
 
 ##  Organisers 
-* Jiyin He, CWI, the Netherlands
+* Jiyin He, Signal Media, UK
 * Udo Kruschwitz, University of Essex, UK
 * Birger Larsen, Aalborg University, Denmark
-* Tony Russell-Rose, UXLabs, Guildford, UK
+* Tony Russell-Rose, 2dSearch, Guildford, UK
 * Suzan Verberne, Leiden University, the Netherlands
 * Arjen P. de Vries, Radboud University, the Netherlands
 
