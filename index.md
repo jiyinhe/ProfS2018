@@ -79,7 +79,7 @@ Second session:
 * Suzan Verberne: Explainable IR for personalizing professional search (position paper)
 
 ## Proceedings
-The workshop proceedings have been published online at [ceur-ws.org/Vol-2127](ceur-ws.org/Vol-2127).
+The workshop proceedings have been published online at [ceur-ws.org/Vol-2127](http://ceur-ws.org/Vol-2127).
 
 
 <div class="navsec" id="organisation"></div>
