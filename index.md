@@ -41,7 +41,7 @@ List of topics:
 <div class="navsec" id="program"></div>
 # Program
 
-## Tentative workshop schedule
+## Workshop schedule
 
  9:15 - 9:30	| Introduction 	
  9:30 - 10:00	| Presentation of survey results	
@@ -67,13 +67,19 @@ Paul Bennett is the Principal Research Manager of the Information & Data Science
 
 David D. Lewis, Ph.D. is Chief Data Scientist at Brainspace, A Cyxtera Business.  He leads the data science team developing new information retrieval, machine learning, and natural language processing technologies for legal, investigatory, and intelligence applications.  He is a Fellow of the American Society for the Advancement of Science, and won a Test of Time Award from SIGIR in 2017 for his 1994 paper introducing the uncertainty sampling algorithm for active learning.
 
-## Accepted papers
+## Paper presentations
+First session:
 * Girish Palshikar, Rajiv Srivastava, Mahek Shah and Sachin Pawar: Automatic Shortlisting of Candidates in Recruitment
 * Tamer Mohamed Abdellatif, Luiz Fernando Capretz and Danny Ho: Searching for Relevant Lessons Learned Using Hybrid Information Retrieval Classifiers: A Case Study in Software Engineering
 * Nimesh Ghelani, Gordon Cormack and Mark Smucker: Refresh Strategies in Continuous Active Learning
+
+Second session:
 * Thomas Schoegje, Toine Pieters and Egon van den Broek: Personalizing professional search: plans for supporting authentic work tasks (position paper)
 * Piyush Arora and Gareth Jones: Challenges in the development of effective systems for Professional Legal Search
 * Suzan Verberne: Explainable IR for personalizing professional search (position paper)
+
+## Proceesings
+The workshop proceedings have been published online at [ceur-ws.org/Vol-2127](ceur-ws.org/Vol-2127).
 
 
 <div class="navsec" id="organisation"></div>
