@@ -78,7 +78,7 @@ Second session:
 * Piyush Arora and Gareth Jones: Challenges in the development of effective systems for Professional Legal Search
 * Suzan Verberne: Explainable IR for personalizing professional search (position paper)
 
-## Proceesings
+## Proceedings
 The workshop proceedings have been published online at [ceur-ws.org/Vol-2127](ceur-ws.org/Vol-2127).
 
 
