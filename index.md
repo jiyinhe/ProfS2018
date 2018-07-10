@@ -75,7 +75,7 @@ First session:
 
 Second session:
 * Thomas Schoegje, Toine Pieters and Egon van den Broek: Personalizing professional search: plans for supporting authentic work tasks (position paper)
-* Piyush Arora and Gareth Jones: Challenges in the development of effective systems for Professional Legal Search
+* Piyush Arora, Murhaf Hossari, Alfredo Maldonado, Clare Conran, Gareth J. F. Jones: Challenges in the development of effective systems for Professional Legal Search
 * Suzan Verberne: Explainable IR for personalizing professional search (position paper)
 
 ## Proceedings
